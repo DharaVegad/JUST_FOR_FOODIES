@@ -1,2 +1,2 @@
 # JUST_FOR_FOODIES
-Just for foodies is an online food ordering application.
+Just for foodies is an online food ordering application built with javascript.
